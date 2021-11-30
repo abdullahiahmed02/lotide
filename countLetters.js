@@ -22,5 +22,3 @@ const countLetters = function(sentence) {
   return obj;
 };
 
-// console.log(countLetters("lighthouse in the house"));
-// console.log(countLetters("LHL"));
